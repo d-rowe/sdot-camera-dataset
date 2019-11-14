@@ -1,0 +1,108 @@
+{
+  "url": {
+    "img": "https://www.seattle.gov/trafficcams/images/<LOCATION>.jpg",
+    "stream": "https://58cc2dce193dd.streamlock.net/live/<LOCATION>.stream/playlist.m3u8"
+  },
+  "locations": [
+    [
+      "15th Ave W & W Emerson St",
+      "15_W_Emerson_NS"
+    ],
+    [
+      "23rd Ave E & E Madison St EW",
+      "23_E_Madison_EW"
+    ],
+    [
+      "23rd Ave & E Alder St",
+      "23_Alder_NS"
+    ],
+    [
+      "16th Ave E & E Madison St",
+      "16_E_Madison_EW"
+    ],
+    [
+      "Broadway & E Pike St",
+      "Broadway_E_Pike_NS"
+    ],
+    [
+      "Broadway & E Roy St",
+      "Broadway_E_Roy_NS"
+    ],
+    [
+      "14th Ave S & S Jackson St",
+      "14_S_Jackson_EW"
+    ],
+    [
+      "4th Ave & Cherry St NS",
+      "4_Cherry_NS"
+    ],
+    [
+      "4th Ave & Cherry St EW",
+      "4_Cherry_EW"
+    ],
+    [
+      "3rd Ave & Seneca St",
+      "3_Seneca_EW"
+    ],
+    [
+      "5th Ave & Pine St EW",
+      "5_Pine_EW"
+    ],
+    [
+      "5th Ave & Pine St NS",
+      "5_Pine_NS"
+    ],
+    [
+      "6th Ave & Lenora St",
+      "6_Lenora_NS"
+    ],
+    [
+      "3rd Ave & Seneca St",
+      "3_Seneca_EW"
+    ],
+    [
+      "Western Ave & Wall St",
+      "Western_Wall_NS"
+    ],
+    [
+      "7th Ave & Virginia St",
+      "7_Virginia_EW"
+    ],
+    [
+      "Denny Way & Yale St / Stewart St",
+      "Stewart_Denny_EW"
+    ],
+    [
+      "5th Ave & James St",
+      "5_James_EW"
+    ],
+    [
+      "3rd Ave & Yesler Way",
+      "3_Yesler_NS"
+    ],
+    [
+      "2nd Ave & James St",
+      "2_James_EW"
+    ],
+    [
+      "Alaskan Way & Yesler Way",
+      "Alaskan_Yesler_NS"
+    ],
+    [
+      "2nd Ave & Marion St",
+      "2_Marion_NS"
+    ],
+    [
+      "1st Ave & Madison St",
+      "1_Madison_NS"
+    ],
+    [
+      "Alaskan Way & Madison St",
+      "Alaskan_Madison_NS"
+    ],
+    [
+      "Western Ave & Spring St",
+      "Western_Spring_NS"
+    ]
+  ]
+}
