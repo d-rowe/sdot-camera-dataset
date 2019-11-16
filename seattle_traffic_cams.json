@@ -112,6 +112,13 @@
     "stream": "https://58cc2dce193dd.streamlock.net/live/2_Marion_NS.stream/playlist.m3u8"
   },
   {
+    "name": "35th Ave SW @ Fauntleroy Way SW",
+    "identifier": "35_SW_Fauntleroy_NS",
+    "direction": "NS",
+    "img": "https://www.seattle.gov/trafficcams/images/35_SW_Fauntleroy_NS.jpg",
+    "stream": "https://58cc2dce193dd.streamlock.net/live/35_SW_Fauntleroy_NS.stream/playlist.m3u8"
+  },
+  {
     "name": "3rd Ave & Seneca St",
     "identifier": "3_Seneca_EW",
     "direction": "EW",
@@ -124,6 +131,20 @@
     "direction": "NS",
     "img": "https://www.seattle.gov/trafficcams/images/3_Yesler_NS.jpg",
     "stream": "https://58cc2dce193dd.streamlock.net/live/3_Yesler_NS.stream/playlist.m3u8"
+  },
+  {
+    "name": "41st Ave SW & SW Admiral Way",
+    "identifier": "41_SW_Admiral_EW",
+    "direction": "EW",
+    "img": "https://www.seattle.gov/trafficcams/images/41_SW_Admiral_EW.jpg",
+    "stream": "https://58cc2dce193dd.streamlock.net/live/41_SW_Admiral_EW.stream/playlist.m3u8"
+  },
+  {
+    "name": "42nd Ave SW & SW Alaska St",
+    "identifier": "42_SW_Alaska_EW",
+    "direction": "EW",
+    "img": "https://www.seattle.gov/trafficcams/images/42_SW_Alaska_EW.jpg",
+    "stream": "https://58cc2dce193dd.streamlock.net/live/42_SW_Alaska_EW.stream/playlist.m3u8"
   },
   {
     "name": "4th Ave & Battery St",
@@ -252,6 +273,27 @@
     "stream": "https://58cc2dce193dd.streamlock.net/live/Broadway_E_Roy_NS.stream/playlist.m3u8"
   },
   {
+    "name": "California Ave SW & SW Alaska St",
+    "identifier": "California_SW_Alaska_NS",
+    "direction": "NS",
+    "img": "https://www.seattle.gov/trafficcams/images/California_SW_Alaska_NS.jpg",
+    "stream": "https://58cc2dce193dd.streamlock.net/live/California_SW_Alaska_NS.stream/playlist.m3u8"
+  },
+  {
+    "name": "California Ave SW & SW Hanford St",
+    "identifier": "California_SW_Hanford_NS",
+    "direction": "NS",
+    "img": "https://www.seattle.gov/trafficcams/images/California_SW_Hanford_NS.jpg",
+    "stream": "https://58cc2dce193dd.streamlock.net/live/California_SW_Hanford_NS.stream/playlist.m3u8"
+  },
+  {
+    "name": "Chelan Ave SW & W Marginal Way",
+    "identifier": "Chelan_SW_WMarg_EW",
+    "direction": "EW",
+    "img": "https://www.seattle.gov/trafficcams/images/Chelan_SW_WMarg_EW.jpg",
+    "stream": "https://58cc2dce193dd.streamlock.net/live/Chelan_SW_WMarg_EW.stream/playlist.m3u8"
+  },
+  {
     "name": "Denny Way & Yale St / Stewart St",
     "identifier": "Stewart_Denny_EW",
     "direction": "EW",
@@ -287,6 +329,20 @@
     "stream": "https://58cc2dce193dd.streamlock.net/live/Evanston_N_36_EW.stream/playlist.m3u8"
   },
   {
+    "name": "Fauntleroy Way SW & SW Alaska St",
+    "identifier": "Fauntleroy_SW_Alaska_NS",
+    "direction": "NS",
+    "img": "https://www.seattle.gov/trafficcams/images/Fauntleroy_SW_Alaska_NS.jpg",
+    "stream": "https://58cc2dce193dd.streamlock.net/live/Fauntleroy_SW_Alaska_NS.stream/playlist.m3u8"
+  },
+  {
+    "name": "Fauntleroy Way SW & SW Cloverdale St",
+    "identifier": "Fauntleroy_SW_Cloverdale_NS",
+    "direction": "NS",
+    "img": "https://www.seattle.gov/trafficcams/images/Fauntleroy_SW_Cloverdale_NS.jpg",
+    "stream": "https://58cc2dce193dd.streamlock.net/live/Fauntleroy_SW_Cloverdale_NS.stream/playlist.m3u8"
+  },
+  {
     "name": "Leary Way NW & NW 43rd St",
     "identifier": "Leary_NW_43_EW",
     "direction": "EW",
@@ -299,6 +355,13 @@
     "direction": "NS",
     "img": "https://www.seattle.gov/trafficcams/images/QAnne_N_Roy_NS.jpg",
     "stream": "https://58cc2dce193dd.streamlock.net/live/QAnne_N_Roy_NS.stream/playlist.m3u8"
+  },
+  {
+    "name": "W Seattle Bridge Mid-Span",
+    "identifier": "WSB_Midspan_EW",
+    "direction": "EW",
+    "img": "https://www.seattle.gov/trafficcams/images/WSB_Midspan_EW.jpg",
+    "stream": "https://58cc2dce193dd.streamlock.net/live/WSB_Midspan_EW.stream/playlist.m3u8"
   },
   {
     "name": "Western Ave & Elliott St",

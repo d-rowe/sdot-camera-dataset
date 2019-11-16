@@ -1,5 +1,5 @@
 {
-  "count": 47,
+  "count": 57,
   "url": {
     "img": "https://www.seattle.gov/trafficcams/images/<LOCATION>.jpg",
     "stream": "https://58cc2dce193dd.streamlock.net/live/<LOCATION>.stream/playlist.m3u8"
@@ -70,12 +70,24 @@
       "2_Marion_NS"
     ],
     [
+      "35th Ave SW @ Fauntleroy Way SW",
+      "35_SW_Fauntleroy_NS"
+    ],
+    [
       "3rd Ave & Seneca St",
       "3_Seneca_EW"
     ],
     [
       "3rd Ave & Yesler Way",
       "3_Yesler_NS"
+    ],
+    [
+      "41st Ave SW & SW Admiral Way",
+      "41_SW_Admiral_EW"
+    ],
+    [
+      "42nd Ave SW & SW Alaska St",
+      "42_SW_Alaska_EW"
     ],
     [
       "4th Ave & Battery St",
@@ -150,6 +162,18 @@
       "Broadway_E_Roy_NS"
     ],
     [
+      "California Ave SW & SW Alaska St",
+      "California_SW_Alaska_NS"
+    ],
+    [
+      "California Ave SW & SW Hanford St",
+      "California_SW_Hanford_NS"
+    ],
+    [
+      "Chelan Ave SW & W Marginal Way",
+      "Chelan_SW_WMarg_EW"
+    ],
+    [
       "Denny Way & Yale St / Stewart St",
       "Stewart_Denny_EW"
     ],
@@ -170,12 +194,28 @@
       "Evanston_N_36_EW"
     ],
     [
+      "Fauntleroy Way SW & SW Alaska St",
+      "Fauntleroy_SW_Alaska_NS"
+    ],
+    [
+      "Fauntleroy Way SW & SW Cloverdale St",
+      "Fauntleroy_SW_Cloverdale_NS"
+    ],
+    [
       "Leary Way NW & NW 43rd St",
       "Leary_NW_43_EW"
     ],
     [
       "Queen Anne Ave N & Roy St",
       "QAnne_N_Roy_NS"
+    ],
+    [
+      "W Seattle Bridge Mid-Span",
+      "WSB_Midspan_EW"
+    ],
+    [
+      "W Seattle Bridge near SW Charlestown St",
+      "WSea_FwyPullOut_EW"
     ],
     [
       "Western Ave & Elliott St",

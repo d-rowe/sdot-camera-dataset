@@ -12,3 +12,4 @@ Current coverage:
 - Crown Hill
 - Central District
 - Capitol Hill
+- West Seattle
