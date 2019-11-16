@@ -1,4 +1,5 @@
 {
+  "count": 47,
   "url": {
     "img": "https://www.seattle.gov/trafficcams/images/<LOCATION>.jpg",
     "stream": "https://58cc2dce193dd.streamlock.net/live/<LOCATION>.stream/playlist.m3u8"
@@ -7,6 +8,22 @@
     [
       "14th Ave S & S Jackson St",
       "14_S_Jackson_EW"
+    ],
+    [
+      "15th Ave NW & NW 85th St",
+      "15_NW_85_NS"
+    ],
+    [
+      "15th Ave NW & NW Leary Way",
+      "15_NW_Leary_EW"
+    ],
+    [
+      "15th Ave NW & NW Market St EW",
+      "15_NW_Market_EW"
+    ],
+    [
+      "15th Ave W & W Dravus St",
+      "15_W_Dravus_NS"
     ],
     [
       "15th Ave W & W Emerson St",
@@ -61,6 +78,10 @@
       "3_Yesler_NS"
     ],
     [
+      "4th Ave & Battery St",
+      "4_Battery_EW"
+    ],
+    [
       "4th Ave & Cherry St EW",
       "4_Cherry_EW"
     ],
@@ -77,6 +98,10 @@
       "5_Marion_EW"
     ],
     [
+      "5th Ave & Mercer St EW",
+      "5_Mercer_EW"
+    ],
+    [
       "5th Ave & Pine St EW",
       "5_Pine_EW"
     ],
@@ -91,6 +116,18 @@
     [
       "7th Ave & Virginia St",
       "7_Virginia_EW"
+    ],
+    [
+      "8th Ave & Howell St",
+      "8_Howell_EW"
+    ],
+    [
+      "9th Ave & Pine St",
+      "9_Pine_EW"
+    ],
+    [
+      "9th Ave N & Mercer St",
+      "9_N_Mercer_EW"
     ],
     [
       "Alaskan Way & Madison St",
@@ -117,12 +154,44 @@
       "Stewart_Denny_EW"
     ],
     [
+      "Eastlake Ave E & E Stewart St",
+      "Eastlake_E_Stewart_NS"
+    ],
+    [
+      "Elliott Ave & Broad St",
+      "Elliott_Broad_NS"
+    ],
+    [
+      "Elliott Ave W & W Mercer Pl",
+      "Elliott_W_Mercer_NS"
+    ],
+    [
+      "Evanston Ave N & N 36th St",
+      "Evanston_N_36_EW"
+    ],
+    [
+      "Leary Way NW & NW 43rd St",
+      "Leary_NW_43_EW"
+    ],
+    [
+      "Queen Anne Ave N & Roy St",
+      "QAnne_N_Roy_NS"
+    ],
+    [
+      "Western Ave & Elliott St",
+      "Western_Elliott_NS"
+    ],
+    [
       "Western Ave & Spring St",
       "Western_Spring_NS"
     ],
     [
       "Western Ave & Wall St",
       "Western_Wall_NS"
+    ],
+    [
+      "Westlake Ave & Denny Way NS",
+      "Westlake_Denny_NS"
     ]
   ]
 }
