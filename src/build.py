@@ -4,7 +4,7 @@ import urllib.request
 INPUT = "name_ids.json"
 OUTPUT = "../seattle_traffic_cams.json"
 
-# Load data from josn
+# Load data from json
 with open(INPUT, "r") as read_file:
     camera_data = json.load(read_file)
 
@@ -44,7 +44,7 @@ for location in locations:
         print(f"{name} has a broken link")
 
 with open(OUTPUT, 'w') as outfile:
-    json.dump(render, outfile, indent=4, separators=(',', ': '))
+    json.dump(render, outfile, indent=2, separators=(',', ': '))
 
 successful = len(render)
 unsuccessful = len(locations) - successful
